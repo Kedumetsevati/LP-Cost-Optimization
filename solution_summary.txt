@@ -1,0 +1,13 @@
+Status: Optimal
+Total Cost: 6,140.00
+
+Total shipped per warehouse:
+  W1: 700
+  W2: 700
+  W3: 800
+
+Total received per store:
+  S1: 500
+  S2: 700
+  S3: 600
+  S4: 400
